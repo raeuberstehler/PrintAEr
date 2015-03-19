@@ -9,4 +9,5 @@ Check out pictures of the machine here: www.raeuberundstehler.com
 Make sure to check out Thibaults improved version: https://github.com/thibalte/Presto-v2
 
 Credits for the redesign of the hardware: Matt Maurer / Fabian Ritzi
+
 Software: Thibault Brevet / Kevin Renz
